@@ -4,7 +4,7 @@
     <artifactId>org.tinygroup.studytiny</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>org.tinygroup.studytiny</name>
+    <name>study</name>
     <url>http://maven.apache.org</url>
     <properties>
         <tiny_version>2.0.10</tiny_version>
@@ -93,7 +93,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>org.tinygroup.studytiny</finalName>
+        <finalName>study</finalName>
         <pluginManagement>
             <plugins>
                 <plugin>
